@@ -1,0 +1,60 @@
+
+.footer {
+    padding-top: 10px;
+}
+
+.profile-pic {
+    padding-bottom: 30px;
+}
+
+.main-info {
+    padding-left: 25px;
+}
+
+h2, h3, p {
+    font-family: "Raleway", sans-serif;
+}
+
+h3.text-muted a {
+    text-decoration: none;
+    color: #999999;
+}
+
+h3.text-muted a:hover {
+    text-decoration: none;
+    color: #0088cc;
+}
+
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: Georgia, sans-serif;
+    font-size: 16px;
+}
+
+.image {
+    background-position: 0px 0px;
+    display: block;
+    float: right;
+    height: 32px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: -5px;
+    width: 32px;
+}
+
+.email {
+    background-image: url(/img/email_32.png)
+}
+
+.github {
+    background-image: url(/img/github_32.png)
+}
+
+.linkedin {
+    background-image: url(/img/linkedin_32.png)
+}
+
+.copyright {
+    vertical-align: center;
+}
