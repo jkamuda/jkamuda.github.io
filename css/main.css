@@ -11,10 +11,24 @@
     padding-left: 25px;
 }
 
+h2, h3, p {
+    font-family: "Raleway", sans-serif;
+}
+
+h3.text-muted a {
+    text-decoration: none;
+    color: #999999;
+}
+
+h3.text-muted a:hover {
+    text-decoration: none;
+    color: #0088cc;
+}
+
 body {
     padding-top: 20px;
     padding-bottom: 40px;
-    font-family: Georgia, Times;
+    font-family: Georgia, sans-serif;
     font-size: 16px;
 }
 
@@ -43,14 +57,4 @@ body {
 
 .copyright {
     vertical-align: center;
-}
-
-h3.text-muted a {
-    text-decoration: none;
-    color: #999999;
-}
-
-h3.text-muted a:hover {
-    text-decoration: none;
-    color: #0088cc;
 }
